@@ -1,0 +1,123 @@
+body{
+  background-color: gray;
+}
+
+.div-main{
+  background-color: gray;
+  margin: auto;
+  width: 45%;
+  padding-top: 10px;
+  margin-top: 120px;
+  border-radius: 20px;
+}
+
+
+.JoinUs, .days, .access{
+  margin-left: 40px;
+}
+
+.JoinUs{
+  color: #7CC6CA;
+  font-size: 24px;
+  margin-top: 20px;
+}
+.days{
+  color: #A2C926;
+  font-size: 20px;
+  margin-top: 25px;
+}
+.access{
+  color: #CECBC6;
+  margin-top: 20px;
+  margin-bottom: 35px;
+}
+
+
+.left{
+  background-color: #249EA0;
+  border-bottom-left-radius: 20px;
+}
+.monthly, .inside, .cost, .period, .one-dollar{
+  color: white;
+
+}
+
+.monthly{
+  font-size: 18px;
+  margin-top: 20px;
+  margin-left: 35px;
+
+}
+.cost{
+  margin-left: 35px;
+}
+.period{
+  margin-left: 10px;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.one-dollar{
+  font-size: 15px;
+  margin-left: 35px;
+}
+
+.inside{
+  display: flex;
+}
+
+/*Button */
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-left: 60px;
+  margin-top: 15px;
+  border-radius: 15px;
+  width: 170px;
+}
+
+.button {
+  background-color: #4CAF50;
+  color: white;
+  border: 2px solid #4CAF50;
+}
+
+.button:hover {
+  background-color: white;
+  color: black  ;
+}
+
+
+.right{
+  background-color: #44AEB3;
+  border-bottom-right-radius: 20px;
+}
+
+.why{
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.paragraph{
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.paragraph, .why{
+  margin-right: 75px;
+  margin-left: 35px;
+  color: white;
+}
+.second{
+  margin-left: 12px;
+  margin-right: 12px;
+}
